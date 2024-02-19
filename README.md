@@ -7,7 +7,11 @@ Analyzing IMDb store data can provide valuable insights into trends, popularity,
 
 In this project, we leverage the power of Python's Pandas library to perform data analysis on IMDb store data. We use various Pandas queries and techniques to extract meaningful information from the dataset.
 
-To run this project, you need the following prerequisites:
+# To run this project, you need the following prerequisites
 
 Python (version 3.6 or higher)
 Pandas library
+Matplotlib library
+Seaborn library
+Numpy library
+Plotly library
