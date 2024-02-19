@@ -1,4 +1,5 @@
-Analyzed IMDb Store Data using Python (Pandas) Queries (This one is for Beginners to understand how data analysis actually work)
+# Analyzed IMDb Store Data using Python (Pandas) Queries 
+(This one is for Beginners to understand how data analysis actually work)
 
 This project involves analyzing IMDb store data using Python's Pandas library to extract valuable insights.
 
